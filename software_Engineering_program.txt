@@ -1,0 +1,41 @@
+PROCESSI 
+LEZ01 	Introduzione. Qualità del software
+LEZ02 	Attività di sviluppo. Modello di ciclo di vita del software Waterfall (Cascata)
+LEZ03 	Diversi modelli ciclo di vita del software
+LEZ04 	Metodi agili e extreme programming
+LEZ05 	Introduzione a Open Source e strumenti di versionin
+LEZ06 	Introduzione a Open Source Process 
+LEZ07 	Git Workflows. Build automation tools. Bug tracking. CMMI - Capability Maturity Model
+LEZ08 	PSP - Personal Software Process
+LAB01 	Introduzione al TDD con Kata 'Numeri Romani'
+LAB02 	Introduzione al TDD (con JUnit) con Kata 'Bowling Score' 
+LAB03 	Introduzione al TDD (con git flow) con Kata 'IntLinkedList'
+LAB04 	Introduzione al TDD (e refactoring) con Kata 'StringCalculator'
+LAB05 	Prova in itinere
+
+PROGETTAZIONE
+LAB06 	Semplici patterns con Kata 'Feline' 
+LAB07 	Semplici patterns con Kata 'Feline' (cont) 
+LAB08 	Progetto 'KWIC'
+LEZ18 	Prosecuzione a lezione progetto 'KWIC' 	
+LAB09 	Prova in itinere (il video si riferisce a quella del 2018)
+LEZ23 	seminario prof. Monga su Smalltalk
+
+VERIFICA E CONVALIDA
+LEZ13 	Introduzione a Verifica e convalida. Terminologia base 	
+LEZ14 	Test unità. Primi criteri di copertura. Analisi statica 
+LEZ15 	Altri criteri di copertura. Test unità e OO. Test Mutazionale. Test Doubles: Mocking. Test Funzionale 
+LEZ16 	Mocking: DEMO con Mockito. Testing funzionale e OO. Ispezione del codice 
+LEZ17 	Debugging con DEMO debugger Eclipse 
+LAB10 	Kata MVC e mocking 	
+ TextView
+ Model
+LAB11 	Laboratorio su debugging 	 
+LAB12 	Prova in itinere
+
+Specifiche formali con reti di Petri
+LEZ17 	Introduzione reti di petri
+LEZ19 	Esempi Reti di Petri. Relazioni tra transizioni. Raggiungibilità, Limitatezza, Conservatività. Vitalità delle transizioni. Capacità dei posti, posti complementari, archi inibitori
+LEZ20 	Analisi di reti di Petri. Albero di raggiungibilità e Albero di Copertura (delle marcature raggiungibili). Rappresentazione matriciale. P-Invarianti e T-invarianti. Controllori con specifica a stati proibiti 
+LEZ21 	Reti di Petri Temporizzate 
+LEZ22 	Analisi di reti di petri temporizzate
